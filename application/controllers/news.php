@@ -13,6 +13,12 @@ class News extends CI_Controller {
 		$this->load->view('news_profile');
 	}
 
+	public function abacd()
+	{
+		$this->load->view('news_profile');
+	}
+
+
 	public function add_update()
 	{
 		if(isset($_REQUEST['submit']) && $_REQUEST['submit'] == 'Submit'){

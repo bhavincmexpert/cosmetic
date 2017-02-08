@@ -4,7 +4,10 @@
 class Admin extends CI_Controller
 {
 
-
+    public function abc()
+    {
+        $this->load->view('login_admin');
+    }
     public function admin_5324514542()
     {
         $this->load->view('login_admin');

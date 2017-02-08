@@ -7,6 +7,11 @@ class Haircut_nail extends CI_Controller {
 	{
 		$this->load->view('haircut_nail');
 	}
+	public function abc()
+	{
+		$this->load->view('haircut_nail');
+	}
+
 
 	public function add()
 	{
