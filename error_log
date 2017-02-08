@@ -1,0 +1,98 @@
+[10-Aug-2016 07:13:08 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 07:13:18 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 07:13:23 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 09:38:40 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::inser() in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 279
+[10-Aug-2016 09:39:01 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::inser() in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 280
+[10-Aug-2016 09:39:18 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::inser() in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 280
+[10-Aug-2016 09:40:14 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::inser() in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 280
+[10-Aug-2016 10:32:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '404' (T_LNUMBER), expecting identifier (T_STRING) in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 97
+[10-Aug-2016 10:32:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '404' (T_LNUMBER), expecting identifier (T_STRING) in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 97
+[10-Aug-2016 10:33:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '404' (T_LNUMBER), expecting identifier (T_STRING) in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 97
+[10-Aug-2016 10:36:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '404' (T_LNUMBER), expecting identifier (T_STRING) in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 97
+[10-Aug-2016 10:37:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '404' (T_LNUMBER), expecting identifier (T_STRING) in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 97
+[10-Aug-2016 10:37:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '404' (T_LNUMBER), expecting identifier (T_STRING) in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 97
+[10-Aug-2016 10:37:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '404' (T_LNUMBER), expecting identifier (T_STRING) in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 97
+[10-Aug-2016 10:37:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '404' (T_LNUMBER), expecting identifier (T_STRING) in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 97
+[10-Aug-2016 10:37:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '404' (T_LNUMBER), expecting identifier (T_STRING) in /home/cmexpknw/public_html/pos/application/controllers/admin.php on line 97
+[10-Aug-2016 13:19:34 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 13:25:02 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 13:25:05 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 13:25:07 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 13:25:26 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 13:25:56 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 13:26:12 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 13:26:38 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 13:26:40 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[10-Aug-2016 13:26:50 Etc/GMT] PHP Fatal error:  Call to undefined function phpinclude() in /home/cmexpknw/public_html/pos/application/views/product_list.php on line 1
+[12-Aug-2016 11:37:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/views/add_user_admin.php on line 181
+[12-Aug-2016 11:37:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/views/add_user_admin.php on line 181
+[12-Aug-2016 11:38:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/views/add_user_admin.php on line 181
+[12-Aug-2016 11:39:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/views/add_user_admin.php on line 181
+[16-Aug-2016 10:09:27 Etc/GMT] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/cmexpknw/public_html/pos/application/views/order_stock.php on line 118
+[17-Aug-2016 06:14:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:14:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:14:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:14:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:14:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:14:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:14:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:14:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:14:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:14:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:16:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:16:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:16:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:16:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:17:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:17:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:18:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:18:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:18:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:18:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 06:18:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 34
+[17-Aug-2016 09:26:38 Etc/GMT] PHP Parse error:  syntax error, unexpected ''> ADD </a></td>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 42
+[17-Aug-2016 11:12:55 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 52
+[17-Aug-2016 11:12:58 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 52
+[17-Aug-2016 11:13:12 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 52
+[17-Aug-2016 11:13:13 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 52
+[17-Aug-2016 11:13:34 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:13:34 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:14:23 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:14:24 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:14:29 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:14:29 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:15:42 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:15:42 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:00 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:03 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:34 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:34 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:35 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:35 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:35 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:35 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:35 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:36 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:16:36 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:17:12 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:17:12 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:17:14 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:17:14 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:29:00 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:29:01 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:30:40 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:30:41 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[17-Aug-2016 11:30:43 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cmexpknw/public_html/pos/application/views/stock_control_list.php on line 51
+[19-Aug-2016 09:02:05 Etc/GMT] PHP Parse error:  syntax error, unexpected 'abc' (T_STRING), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 86
+[19-Aug-2016 09:02:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'abc' (T_STRING), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 86
+[19-Aug-2016 09:02:10 Etc/GMT] PHP Parse error:  syntax error, unexpected 'abc' (T_STRING), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 86
+[19-Aug-2016 09:02:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'abc' (T_STRING), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 86
+[19-Aug-2016 09:25:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 115
+[19-Aug-2016 09:25:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE), expecting ',' or ';' in /home/cmexpknw/public_html/pos/application/controllers/stock_control.php on line 115
+[20-Aug-2016 10:13:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '$from_email' (T_VARIABLE) in /home/cmexpknw/public_html/pos/application/controllers/Home.php on line 141
+[20-Aug-2016 10:13:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '$from_email' (T_VARIABLE) in /home/cmexpknw/public_html/pos/application/controllers/Home.php on line 141
+[20-Aug-2016 10:19:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/cmexpknw/public_html/pos/application/controllers/Home.php on line 141
+[30-Aug-2016 11:24:46 Etc/GMT] PHP Fatal error:  Class 'PHPExcel_IOFactory' not found in /home/cmexpknw/public_html/pos/application/controllers/customer.php on line 377
+[30-Aug-2016 11:25:15 Etc/GMT] PHP Fatal error:  Class 'PHPExcel_IOFactory' not found in /home/cmexpknw/public_html/pos/application/controllers/customer.php on line 378
+[30-Aug-2016 11:35:33 Etc/GMT] PHP Fatal error:  Class 'PHPExcel_IOFactory' not found in /home/cmexpknw/public_html/pos/application/controllers/customer.php on line 379
+[30-Aug-2016 11:51:30 Etc/GMT] PHP Fatal error:  Call to a member function data() on a non-object in /home/cmexpknw/public_html/pos/application/controllers/customer.php on line 376
