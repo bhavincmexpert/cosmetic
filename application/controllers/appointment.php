@@ -5,6 +5,7 @@ class Appointment extends CI_Controller {
 
 	public function index()
 	{
+	 	// check for git
 		$this->load->view('appointment');
 	}
 
